@@ -1,6 +1,7 @@
 --extra-index-url https://download.pytorch.org/whl/cpu
 
 openvino==2025.2
+openvino-model-api
 onnx==1.18.0
 ultralytics==8.3.161
 supervision==0.25.1
