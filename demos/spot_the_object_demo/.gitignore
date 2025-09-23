@@ -1,0 +1,6 @@
+# Hidden directories
+.vscode/
+.venv
+
+# Directories
+model/
